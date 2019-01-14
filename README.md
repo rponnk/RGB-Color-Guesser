@@ -1,7 +1,7 @@
 # color-game
 Color game from Udemy Class
 
-Guess the color using the RGB(*,*,*).
+Guess the color using the RGB colors
 <p>Hard for 6 tiles.</p>
 <p>Easy for 3 tiles.</p>
 
