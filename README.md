@@ -1,4 +1,4 @@
-# color-game
+# Color-Game
 Color game from Udemy Class
 
 Guess the color using the RGB colors
